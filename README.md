@@ -1,6 +1,6 @@
 # AtliQ-Telecom-Analysis---PowerBI
 
-Presentation video - [Link]()
+Presentation video - [Link](https://www.linkedin.com/feed/update/urn:li:activity:7342822124262252544/)
 
 ## Problem statement
 
