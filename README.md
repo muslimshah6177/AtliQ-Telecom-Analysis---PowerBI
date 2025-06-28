@@ -18,14 +18,14 @@ Imagine yourself as Peter Pandey and perform the following task
 
 ## Data Model
 
-<img src ='https://github.com/Naveen-S6/AtliQo_Telecom_Analysis_PowerBI/blob/main/resources/data_model.png'>
+<img src ='https://github.com/muslimshah6177/AtliQ-Telecom-Analysis---PowerBI/blob/main/resources/data_model.png'>
 
 ## Dashboard Design
-![main_page](https://github.com/Naveen-S6/AtliQo_Telecom_Analysis_PowerBI/blob/main/resources/1.png)
+![main_page](https://github.com/muslimshah6177/AtliQ-Telecom-Analysis---PowerBI/blob/main/resources/1.png)
 
-![market_page](https://github.com/Naveen-S6/AtliQo_Telecom_Analysis_PowerBI/blob/main/resources/2.png)
+![market_page](https://github.com/muslimshah6177/AtliQ-Telecom-Analysis---PowerBI/blob/main/resources/2.png)
 
-![plans_page](https://github.com/Naveen-S6/AtliQo_Telecom_Analysis_PowerBI/blob/main/resources/3.png)
+![plans_page](https://github.com/muslimshah6177/AtliQ-Telecom-Analysis---PowerBI/blob/main/resources/3.png)
 
 ### Insights
 
