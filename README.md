@@ -28,7 +28,7 @@ Imagine yourself as Peter Pandey and perform the following task
 ![plans_page](https://github.com/sayed-m-shah/AtliQ-Telecom-Analysis---PowerBI/blob/main/resources/3.png)
 
 ### Interactive Dashboard Link  
-Explore the live dashboard here: [**Click to View**](https://app.powerbi.com/view?r=eyJrIjoiYjM3NWYxZDUtMzg5MS00N2MyLTk5NDAtZmMyMzBiM2QyNjk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Explore the live dashboard here: [**Click to View**](https://app.powerbi.com/view?r=eyJrIjoiYmUyZTI4MDAtODViMi00Mjc0LWJjMmEtNDFiMTNkYmRlNDc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### Insights
 
